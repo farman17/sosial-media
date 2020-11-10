@@ -15,7 +15,7 @@
                 <div class="row">
                     <div class="col-md-8">
                         <h1>Pesbuk DevOps Cilsy</h1>
-                        <p>Bergabunglah bersama devops engineer di seluruh Indonesia</p>
+                        <p>Bergabunglah bersama devops engineer di seluruh Dunia</p>
                     </div>
                     <div class="col-md-4">
                         <a href="login.php" class="btn btn-secondary">Masuk</a>
