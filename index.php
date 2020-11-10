@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Pesbuk</title>
+    <title>Pesbuk Devops Cilsy</title>
 
      <link rel="stylesheet" href="css/bootstrap.min.css" />
 </head>
@@ -14,8 +14,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8">
-                        <h1>Selamat datang di Pesbuk</h1>
-                        <p>Bergabunglah bersama jutaan orang lainnya...</p>
+                        <h1>Selamat datang di Pesbuk DevOps Cilsy</h1>
+                        <p>Bergabunglah bersama devops engineer orang lainnya...</p>
                     </div>
                     <div class="col-md-4">
                         <a href="login.php" class="btn btn-secondary">Masuk</a>
