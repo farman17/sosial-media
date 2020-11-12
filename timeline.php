@@ -44,7 +44,8 @@
             <?php for($i=0; $i < 6; $i++){ ?>
             <div class="card mb-3">
                 <div class="card-body">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis veritatis nemo ad recusandae labore nihil iure qui eum consequatur, officiis facere quis sunt tempora impedit ullam reprehenderit facilis ex amet!
+                Setelah Anda membuat Halaman Facebook atau akun Instagram untuk bisnis Anda, ini adalah beberapa cara untuk memberi pengalaman yang menarik bagi pengunjung Anda.
+                    Pastikan Anda memiliki foto profil dan sampul, deskripsi tentang siapa Anda, dan bagaimana orang bisa menemukan atau menghubungi Anda, serta tombol ajakan bertindak. Selanjutnya, buat postingan sambutan. Ucapkan sesuatu untuk menyapa pengunjung dan beri tahu mereka apa saja yang akan mereka temukan di Halaman ini. Di Facebook, Anda bisa menyematkan postingan ini ke bagian atas Halaman sehingga akan selalu ada di sana untuk pengunjung Anda.
                 </div>
             </div>
             <?php } ?>
