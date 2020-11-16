@@ -14,7 +14,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8">
-                        <h1>Pesbuk DevOps Cilsy</h1>
+                        <h1>Pesbuk Nyata</h1>
                         <p>Bergabunglah bersama devops engineer di seluruh Dunia</p>
                     </div>
                     <div class="col-md-4">
