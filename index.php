@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Pesbuk Ceria</title>
+    <title>Welcome to Pesbuk</title>
 
      <link rel="stylesheet" href="css/bootstrap.min.css" />
 </head>
@@ -15,7 +15,7 @@
                 <div class="row">
                     <div class="col-md-8">
                         <h1>Pesbuk nya Bang Jago!</h1>
-                        <p>Copyright @FARMAN-2020</p>
+                        <p>Copyright @bangjago-2020</p>
                     </div>
                     <div class="col-md-4">
                         <a href="login.php" class="btn btn-secondary">Masuk</a>
