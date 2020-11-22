@@ -14,8 +14,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8">
-                        <h1>Pesbuk nya Bang Jago!</h1>
-                        <p>Copyright @bangjago-2020</p>
+                        <h1>Tetap terhubung dengan yang lain</h1>
+                        <p>Copyright @farman-2020</p>
                     </div>
                     <div class="col-md-4">
                         <a href="login.php" class="btn btn-secondary">Masuk</a>
