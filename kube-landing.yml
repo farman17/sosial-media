@@ -55,7 +55,7 @@ metadata:
     nginx.ingress.kubernetes.io/rewrite-target: /
 spec:
   rules:
-  - host: sosmed.dekkeng.online
+  - host: sosialmedia.dailybugis.my.id
     http:
       paths:
       #- path: /
