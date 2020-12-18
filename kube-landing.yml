@@ -33,7 +33,7 @@ spec:
           - containerPort: 80
         env:
         - name: DB_HOST
-          value: "dbsosmed.ce5wbyf7mq0s.us-east-2.rds.amazonaws.com"
+          value: "dbsosmedia.cjorhe5jzkni.us-east-2.rds.amazonaws.com"
         - name: DB_USER
           valueFrom:
             secretKeyRef:
